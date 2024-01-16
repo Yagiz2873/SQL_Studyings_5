@@ -1,1 +1,2 @@
 # SQL_Studyings_5
+As you can see from the file; I've continued my SQL journey by using different keywords, built-in functions, aggregate functions altogether. Unlike other SQL exercises before, I've learnt to use EOMONTH() function. With the help of this function, we can get very last date value, from another date value based on their month. Some months have 30 or 31 days and February has 28 or 29 days based on certain years, so this is a very useful function to implement our queries. 
